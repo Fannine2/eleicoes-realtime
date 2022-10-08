@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Eleicões em tempo Real
+
+Este projeto tem como objetivo realizar o acompanhamento do segundo turno das eleições no Brasil
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
