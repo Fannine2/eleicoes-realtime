@@ -1,3 +1,9 @@
 FROM node:18.10.0
+WORKDIR /usr/share/eleicoes
 COPY package*.json .
-RUN ls
+
+RUN npm install
+
+COPY . .
+
+CMD [ "npm", "start" ]
